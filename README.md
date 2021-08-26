@@ -43,4 +43,4 @@ Hi! I'm Sancler Zanella an enthusiast for discovering and exploring the 'unknown
 ## :earth_americas: Find me around
 
 * [LinkedIn](https://www.linkedin.com/in/sancler-zanella/)
-* [Resume](assets/files/cv.pdf)
+* [Resume](assets/files/cv.PDF)
