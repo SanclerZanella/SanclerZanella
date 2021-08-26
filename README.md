@@ -39,3 +39,8 @@ Hi! I'm Sancler Zanella an enthusiast for discovering and exploring the 'unknown
 ## :bar_chart: GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanclerZanella&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## :earth_americas: Find me around
+
+* [LinkedIn](https://www.linkedin.com/in/sancler-zanella/)
+* [Resume](assets/files/cv.pdf)
