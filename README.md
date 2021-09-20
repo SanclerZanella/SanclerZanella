@@ -36,7 +36,7 @@ Hi! I'm Sancler Zanella an enthusiast for discovering and exploring the 'unknown
 
 ![Sancler's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanclerZanella&&count_private=true&show_icons=true&theme=tokyonight)
 
-## :bar_chart: GitHub Stats
+## :bar_chart: Used Languages Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanclerZanella&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
