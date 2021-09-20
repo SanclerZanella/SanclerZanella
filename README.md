@@ -34,15 +34,11 @@ Hi! I'm Sancler Zanella an enthusiast for discovering and exploring the 'unknown
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<p align="center">
 ![Sancler's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanclerZanella&&count_private=true&show_icons=true&theme=tokyonight)
-</p>
 
 ## :bar_chart: GitHub Stats
 
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanclerZanella&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 ## :earth_americas: Find me around
 
